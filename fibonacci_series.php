@@ -15,6 +15,5 @@ function print_fibonacci_series($n) {
   }
 }
 
-
 print_fibonacci_series(15);
 ?>
